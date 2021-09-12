@@ -8,6 +8,8 @@ example introduction for web project
 
 ## Purpose
 
+adding sample purpose
+
 ## Deployment
 
 ## How To Contribute
