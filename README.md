@@ -12,4 +12,8 @@ adding sample purpose
 
 ## Deployment
 
+sample deployment
+
 ## How To Contribute
+
+sample contribution
