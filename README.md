@@ -16,4 +16,7 @@ sample deployment
 
 ## How To Contribute
 
-sample contribution
+sample contribution# Starter Web Project
+## Introduction
+## Purpose
+## How to Contribute
