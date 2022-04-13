@@ -19,5 +19,5 @@ sample deployment
 sample contribution# Starter Web Project
 ## Introduction
 ## Purpose
-## Development
+## DevelopmenThis is a simple website.
 ## How to Contribute
